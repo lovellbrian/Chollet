@@ -1,0 +1,1 @@
+Only 1500 cat and 1500 dog images are included to reduce the size of the data file. 
